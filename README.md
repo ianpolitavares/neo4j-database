@@ -1,6 +1,5 @@
 # Conectando-se ao Neo4j a partir do VSCode
 
-Este guia irá ajudá-lo a se conectar a uma instância do Neo4j a partir do Visual Studio Code (VSCode) e executar consultas Cypher.
 
 ## Pré-requisitos
 
@@ -41,7 +40,7 @@ A extensão Neo4j para VSCode. Aqui está um resumo de como instalar e usar a ex
 
 ### Instalação e Uso
 
-Para instalar a extensão, vá para a Visual Studio Code Marketplace e procure por "Neo4j". Clique em "Install" para instalar a extensão.
+Para instalar a extensão, vá no Visual Studio Code Marketplace e procure por "Neo4j". Clique em "Install".
 
 Depois de instalada, a extensão Neo4j aparecerá na barra lateral do VSCode. Você pode clicar no ícone para abrir o painel da extensão.
 
